@@ -1,0 +1,26 @@
+_repo: On-the-origin-of-inflammation-of-the-veins-and-of-the-causes-consequences-and-treatment-of-pu__47234
+creator:
+  author:
+    agent_name: Lee, Henry, M.D.
+    birthdate: 1817
+    deathdate: 1898
+    gutenberg_agent_id: '40802'
+    url: http://www.gutenberg.org/2009/agents/40802
+description: ''
+gutenberg_issued: '2014-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47234'
+  lccn: '18000489'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RB'
+- !lcsh 'Blood'
+- !lcsh 'Veins -- Diseases'
+title: 'On the origin of inflammation of the veins
+
+  and of the causes, consequences, and treatment of purulent deposits'
+url: http://www.gutenberg.org/ebooks/47234
